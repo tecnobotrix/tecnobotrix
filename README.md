@@ -2,7 +2,7 @@
 - 👀 Este es un repositorio donde desarrollaremos nuevas técnicas de enseñanza-aprendizaje dirigida a nuestros alumnos a través de la programación.
 - 🌱 Nos enfocamos en frameworks convencionales y de código abierto.
 - 💞️ En Tecnobotrix estamos abiertos a colaborar en el desarrollo de nuevas estrategias educativas acorde a los nuevos paradigmas tecnológicos.
-- 📫 Nos pueden contactar a trav
+- 📫 Nos pueden contactar a través de los correos tecnobotrix@gmail.com y admin@tecnobotrix.com.mx
 
 <!---
 tecnobotrix/tecnobotrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
